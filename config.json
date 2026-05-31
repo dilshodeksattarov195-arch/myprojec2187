@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheeecrypt",
+        "uuid": 2112642,
+        "checksum": "kqnr3e"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
